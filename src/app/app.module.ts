@@ -7,13 +7,15 @@ import { HomeComponent } from './home/home.component';
 import {MDBBootstrapModule} from 'angular-bootstrap-md';
 import {HeaderComponent} from './core/header/header.component';
 import {FooterComponent} from './core/footer/footer.component';
+import {Error404Component} from './core/error/error404/error404.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
       HeaderComponent,
-      FooterComponent
+      FooterComponent,
+      Error404Component
   ],
   imports: [
     BrowserModule,
