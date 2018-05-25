@@ -22,6 +22,7 @@
     "@angular/router": "^6.0.2",
     "@auth0/angular-jwt": "^2.0.0",
     "@biesbjerg/ngx-translate-extract": "^2.3.4",
+    "@ngrx/store": "^6.0.1",
     "@ngx-translate/core": "^10.0.2",
     "@ngx-translate/http-loader": "^3.0.1",
     "angular-bootstrap-md": "^6.1.1",
