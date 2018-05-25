@@ -26,6 +26,24 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## used libraries and links
+
+- https://github.com/auth0/angular2-jwt
+- https://github.com/biesbjerg/ngx-translate-extract
+
+-https://github.com/affilnost/angular5-example-shopping-app
+
+https://medium.com/@geeksamu/building-angular-6-application-4bd7b19a66ab
+
+https://github.com/angular/angular-cli/issues/10036
+
+## nog lezen
+
+- http://www.dzurico.com/i18n-with-angular-6/
+- https://dzone.com/articles/angular-localization-and-internationalization
+- https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate
+
+
 
 - https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
 https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b
