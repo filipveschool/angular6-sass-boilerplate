@@ -42,7 +42,7 @@ https://github.com/angular/angular-cli/issues/10036
 - http://www.dzurico.com/i18n-with-angular-6/
 - https://dzone.com/articles/angular-localization-and-internationalization
 - https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate
-
+- https://github.com/SebastianM/angular-google-maps
 
 
 - https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4

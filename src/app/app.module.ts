@@ -8,6 +8,10 @@ import {MDBBootstrapModule} from 'angular-bootstrap-md';
 import {HeaderComponent} from './core/header/header.component';
 import {FooterComponent} from './core/footer/footer.component';
 import {Error404Component} from './core/error/error404/error404.component';
+import { ProfileComponent } from './user/profile/profile.component';
+import { StartpageComponent } from './dashboard/startpage/startpage.component';
+import {AboutComponent} from './pages/about/about.component';
+import { LandingComponent } from './pages/landing/landing.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +19,11 @@ import {Error404Component} from './core/error/error404/error404.component';
     HomeComponent,
       HeaderComponent,
       FooterComponent,
-      Error404Component
+      Error404Component,
+      ProfileComponent,
+      StartpageComponent,
+      AboutComponent,
+      LandingComponent
   ],
   imports: [
     BrowserModule,

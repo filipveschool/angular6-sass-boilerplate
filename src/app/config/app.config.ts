@@ -8,7 +8,10 @@ export const AppConfig = {
     home: 'home',
     login: 'login',
     register: 'register',
-    logout: 'logout'
+    logout: 'logout',
+      dashboard: {
+      startpage: 'startpage',
+      },
   },
   endpoints: {
     productsBaseUrl: 'https://api.shutterstock.com',
