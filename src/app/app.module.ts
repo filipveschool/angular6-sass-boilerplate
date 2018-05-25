@@ -5,11 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import {MDBBootstrapModule} from 'angular-bootstrap-md';
+import {HeaderComponent} from './core/header/header.component';
+import {FooterComponent} from './core/footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+      HeaderComponent,
+      FooterComponent
   ],
   imports: [
     BrowserModule,

@@ -56,3 +56,7 @@ https://medium.com/@geeksamu/building-angular-6-application-4bd7b19a66ab
 https://dzone.com/articles/getting-started-with-angular-60
 https://github.com/angular/angular-cli/issues/10473
 https://github.com/angular/angular-cli/issues/11006
+
+## learning
+
+- https://medium.com/developing-an-angular-4-web-app/creating-app-header-component-242a6e5b555
