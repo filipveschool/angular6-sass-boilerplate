@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+- https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4
+https://medium.com/@tomsu/building-web-components-with-angular-elements-746cd2a38d5b
+https://stackoverflow.com/questions/50521032/data-path-should-not-have-additional-propertiesdryrun
+https://www.sitepoint.com/ultimate-angular-cli-reference/
+https://github.com/angular/angular-cli/wiki/1-x-home
+https://cli.angular.io/reference.pdf
+https://medium.com/@geeksamu/using-angular-material-with-angular-6-862a1c3d04b
+https://medium.com/@geeksamu/building-angular-6-application-4bd7b19a66ab
+https://dzone.com/articles/getting-started-with-angular-60
+https://github.com/angular/angular-cli/issues/10473
+https://github.com/angular/angular-cli/issues/11006
